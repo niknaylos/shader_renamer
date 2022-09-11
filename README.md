@@ -9,3 +9,5 @@ Simple script to copy and rename shader file in cod4
 
 
 Feel free to change this code to automate the process and remove any inputs
+
+Prototype for cod4_utility by TockSick
